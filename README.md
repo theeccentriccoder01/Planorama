@@ -23,25 +23,25 @@ Planorama is a modern web-based task manager that provides a seamless experience
 
 ## 🚀 Live Demo
 
-Experience Planorama live here: [**Planorama**](https://www.google.com/search?q=https://eccentriccoder01.github.io/Planorama)
+Experience Planorama live here: [**Planorama**](https://www.google.com/search?q=https://theeccentriccoder.github.io/Planorama)
 
  <div align="center">
  <p>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/Visitors?path=eccentriccoder01%2FPlanorama%20&countColor=%23263759&style=flat)
-![GitHub Forks](https://img.shields.io/github/forks/eccentriccoder01/Planorama)
-![GitHub Repo Stars](https://img.shields.io/github/stars/eccentriccoder01/Planorama)
-![GitHub Contributors](https://img.shields.io/github/contributors/eccentriccoder01/Planorama)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/eccentriccoder01/Planorama)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/eccentriccoder01/Planorama)
-![GitHub Total Lines](https://sloc.xyz/github/eccentriccoder01/Planorama)
-![Github](https://img.shields.io/github/license/eccentriccoder01/Planorama)
-![GitHub Issues](https://img.shields.io/github/issues/eccentriccoder01/Planorama)
-![GitHub Closed Issues](https://img.shields.io/github/issues-closed-raw/eccentriccoder01/Planorama)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eccentriccoder01/Planorama)
-![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/eccentriccoder01/Planorama)
+![Visitors](https://api.visitorbadge.io/api/Visitors?path=theeccentriccoder%2FPlanorama%20&countColor=%23263759&style=flat)
+![GitHub Forks](https://img.shields.io/github/forks/theeccentriccoder/Planorama)
+![GitHub Repo Stars](https://img.shields.io/github/stars/theeccentriccoder/Planorama)
+![GitHub Contributors](https://img.shields.io/github/contributors/theeccentriccoder/Planorama)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/theeccentriccoder/Planorama)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/theeccentriccoder/Planorama)
+![GitHub Total Lines](https://sloc.xyz/github/theeccentriccoder/Planorama)
+![Github](https://img.shields.io/github/license/theeccentriccoder/Planorama)
+![GitHub Issues](https://img.shields.io/github/issues/theeccentriccoder/Planorama)
+![GitHub Closed Issues](https://img.shields.io/github/issues-closed-raw/theeccentriccoder/Planorama)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/theeccentriccoder/Planorama)
+![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/theeccentriccoder/Planorama)
  </p>
  </div>
 
@@ -70,7 +70,7 @@ For a detailed walkthrough of Planorama's features and how to use them, check ou
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/eccentriccoder01/Planorama.git
+    git clone https://github.com/theeccentriccoder/Planorama.git
     ```
 
 2.  **Navigate to the project directory:**
@@ -120,6 +120,6 @@ This project is open-source and available under the MIT License.
 
 ## 📞 Contact
 
-Developed by [Eccentric Explorer](https://eccentriccoder01.github.io/Me)
+Developed by [Eccentric Explorer](https://theeccentriccoder.github.io/Me)
 
 Feel free to reach out with any questions or feedback\!
